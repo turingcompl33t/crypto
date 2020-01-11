@@ -1,2 +1,2 @@
-## Simple Cryptographic Primitive Implementations
+## Assorted Cryptographic Primitive Implementations
 
